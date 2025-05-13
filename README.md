@@ -1,5 +1,5 @@
 <h1 align="left">Hola, soy Maryoris Martinez</h1>
-<hr>
+
 <h3 align="left">A passionate frontend developer from Argentina</h3>
 
 
