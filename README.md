@@ -8,30 +8,9 @@
 <h2 align="left">Conoce sobre mi:</h2>
 
 <p>Durante mi carrera he colaborado en proyectos centrados en el diseño de experiencia de usuario (UX). Actualmente formo parte de la agencia VML Argentina para Coca-Cola LATAM, y anteriormente trabajé en Asignet Technology ADN, colaborando con clientes como Abbvie, AT&T, entre otros.</p>
-
 <p>He participado tanto en el desarrollo como en la ejecución estratégica desde el área de marketing. Desde que comencé a profundizar en el ámbito de la programación, ese interés se ha convertido en el motor que me impulsa a continuar mi carrera orientada al desarrollo Front-End</p>
 
 <br>
-
-<br>
-
-<h2>🚀 Proyectos destacados</h2> 
-
-<details>
-  <summary>🖥️ Proyecto UX para app de salud</summary>
-  <br>
-  Diseño de experiencia centrado en métricas de bienestar, entrevistas y prototipos en Figma.  
-  🔗 [Ver repositorio](https://github.com/TU_USUARIO/salud-app)
-</details>
-
-<details>
-  <summary>📊 Dashboard para freelancers</summary>
-  <br>
-  Herramienta de gestión con React, Tailwind y conexión a Firebase.  
-  🔗 [Ver repositorio](https://github.com/TU_USUARIO/dashboard-freelancers)
-</details>
-
-
 <br>
 <h2 align="left">Skills:</h2>
 
@@ -63,10 +42,6 @@
 
  [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maryom6&show_icons=true&theme=tokyonight)](https://github.com/Maryom6)
 
-
-<h3>Contribuciones</h3>
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <h3>Lenguajes de programación</h3>
 
