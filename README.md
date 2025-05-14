@@ -9,19 +9,10 @@
 
 <p>Durante mi carrera he colaborado en proyectos centrados en el diseño de experiencia de usuario (UX). Actualmente formo parte de la agencia VML Argentina para Coca-Cola LATAM, y anteriormente trabajé en Asignet Technology ADN, colaborando con clientes como Abbvie, AT&T, entre otros.</p>
 
-<p>He participado tanto en el desarrollo como en la ejecución estratégica desde el área de marketing. Desde que comencé a profundizar en el ámbito de la programación, ese interés se ha convertido en el motor que me impulsa a continuar mi carrera orientada al desarrollo.</p>
+<p>He participado tanto en el desarrollo como en la ejecución estratégica desde el área de marketing. Desde que comencé a profundizar en el ámbito de la programación, ese interés se ha convertido en el motor que me impulsa a continuar mi carrera orientada al desarrollo Front-End</p>
 
 <br>
 
-<h2 align="left">Intereses profesionales:</h2>
-
-<li>Vengo realizando un curso sobre **Desarrollo profesional**</li>
-
-<li>Me gustaría colaborar en **Proyectos como Front-End**</li>
-
-<li>Dictar asesorías para diseñadores juniors, semiseniors en UX research</li>
-
-<br>
 <br>
 
 <h2>🚀 Proyectos destacados</h2> 
@@ -65,13 +56,6 @@
 
 <br>
 <br>
-
-<h2>Certificaciones</h2>
-<li>UX/UI Design | Coderhouse - 2023</li>
-
-<br>
-<br>
-<br>
 <h2>Ver mis estadísticas de GitHub</h2>
 <br>
 
@@ -87,10 +71,6 @@
 <h3>Lenguajes de programación</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryom6&layout=compact&theme=tokyonight)](https://github.com/Maryom6)
-
-
-
-
 
 
 
