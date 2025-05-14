@@ -24,6 +24,24 @@
 <br>
 <br>
 
+<h2>🚀 Proyectos destacados</h2> 
+
+<details>
+  <summary>🖥️ Proyecto UX para app de salud</summary>
+  <br>
+  Diseño de experiencia centrado en métricas de bienestar, entrevistas y prototipos en Figma.  
+  🔗 [Ver repositorio](https://github.com/TU_USUARIO/salud-app)
+</details>
+
+<details>
+  <summary>📊 Dashboard para freelancers</summary>
+  <br>
+  Herramienta de gestión con React, Tailwind y conexión a Firebase.  
+  🔗 [Ver repositorio](https://github.com/TU_USUARIO/dashboard-freelancers)
+</details>
+
+
+<br>
 <h2 align="left">Skills:</h2>
 
 <h3>Tecnologías</h3>
@@ -77,14 +95,13 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Contactos:</h2>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maryoris-martinez-9b9186134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryoris-martinez-9b9186134/" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryoris-martinez)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uxui.mar)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/maryorismartinez)
 
-<a href="https://instagram.com/https://www.instagram.com/uxui.mar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/uxui.mar/" height="30" width="40" /></a>
-
-<a href="https://www.behance.net/https://www.behance.net/maryorismartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/maryorismartinez" height="30" width="40" /></a>
 
 </p>
 
