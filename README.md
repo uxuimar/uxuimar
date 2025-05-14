@@ -8,9 +8,6 @@
 <p>Durante mi carrera he colaborado en proyectos centrados en el diseño de experiencia de usuario (UX). Actualmente formo parte de la agencia VML Argentina para Coca-Cola LATAM, y anteriormente trabajé en Asignet Technology ADN, colaborando con clientes como Abbvie, AT&T, entre otros.</p>
 <p>He participado tanto en el desarrollo como en la ejecución estratégica desde el área de marketing. Desde que comencé a profundizar en el ámbito de la programación, ese interés se ha convertido en el motor que me impulsa a continuar mi carrera orientada al desarrollo Front-End</p>
 
-<br>
-<h2 align="left">Skills:</h2>
-
 <h3>Tecnologías</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +17,6 @@
 ![Agile](https://img.shields.io/badge/Metodolog%C3%ADas_Agile-29ABE2?style=for-the-badge&logo=airtable&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-F68B1E?style=for-the-badge&logo=trello&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design_Thinking-4CAF50?style=for-the-badge&logo=google&logoColor=white)
-
 
 <h3>Frameworks o herramientas</h3>
 
@@ -36,17 +32,6 @@
  [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maryom6&show_icons=true&theme=tokyonight)](https://github.com/Maryom6)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryom6&layout=compact&theme=tokyonight)](https://github.com/Maryom6)
-
-
-
-
-<h2 align="left">Contactos:</h2>
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryoris-martinez)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uxui.mar)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/maryorismartinez)
-
 
 </p>
 
