@@ -29,9 +29,10 @@
 <br>
 <h2>Ver mis estadísticas de GitHub</h2>
 
- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maryom6&show_icons=true&theme=tokyonight)](https://github.com/Maryom6)
+ ![Maryoris GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxuimar&show_icons=true&theme=radical&hide=prs&count_private=true)
+ 
+ ![GitHub Streak](https://streak-stats.demolab.com?user=uxuimar&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryom6&layout=compact&theme=tokyonight)](https://github.com/Maryom6)
 
 </p>
 
