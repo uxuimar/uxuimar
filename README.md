@@ -1,7 +1,6 @@
 <h1 align="left">Hola, soy Maryoris Martinez</h1>
 
 ![UX Designer](https://img.shields.io/badge/UX_Research-%23f0f0f0?style=for-the-badge&logo=about.me&logoColor=black)
-![Freelancer](https://img.shields.io/badge/Freelancer-%2300C4CC?style=for-the-badge&logo=freelancer&logoColor=black)
 
 <h2 align="left">Conoce sobre mi:</h2>
 
