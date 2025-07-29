@@ -32,7 +32,6 @@
  
  ![GitHub Streak](https://streak-stats.demolab.com?user=uxuimar&theme=radical&hide_border=true)
 
-
 </p>
 
 
