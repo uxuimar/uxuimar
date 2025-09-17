@@ -5,7 +5,7 @@
 <h2 align="left">About me:</h2>
 
 <p>I have contributed to user experience (UX) design projects E2E, B2B, and BTC. Currently working at VML Argentina agency for Coca-Cola LATAM, and previously at Asignet Technology ADN, collaborating with clients including Abbvie, AT&T, among others.</p>
-<p>Participating in both the development and strategic execution within the marketing area. Since I began delving into the field of programming, that interest has become the driving force that motivates me to continue my career in the spectrum of experience design with a focus on Front-End development.</p>
+<p>Participating in both the development and strategic execution within the marketing area. Since I began delving into the field of programming, that interest has become the driving force that motivates me to continue my career in the spectrum of experience design with a focus Development.</p>
 
 <h3>Technologies</h3>
 
