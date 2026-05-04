@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm Maryoris Martinez</h1>
 
 ![UX Designer](https://img.shields.io/badge/UX_Research-%23f0f0f0?style=for-the-badge&logo=about.me&logoColor=black)
+![Developer](https://img.shields.io/badge/Developer-%23f0f0f0?style=for-the-badge&logo=code&logoColor=black)
 
 <h2 align="left">About me:</h2>
 
