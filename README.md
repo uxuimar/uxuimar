@@ -29,7 +29,6 @@
 <br>
 <h2>Check my GitHub stats</h2>
 
- ![Maryoris GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxuimar&show_icons=true&theme=radical&hide=prs&count_private=true)
  
  ![GitHub Streak](https://streak-stats.demolab.com?user=uxuimar&theme=radical&hide_border=true)
 
